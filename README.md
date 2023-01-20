@@ -62,3 +62,5 @@ Delete the following:
 
 - Please note that these retextures will conflict with other retextures listed above, so please make sure that you have removed any [retexture]_n.tex, [retexture]_s.tex and/or [retexture]_sa.tex that belong to other retextures.
 - It's not necessary to exit the game completely to switch between retextures. Quit to main menu, drag and drop new retexture and continue.
+
+<i>Credits go to ilikedetectives for the idea, input and participation in creating this ongoing project. And to the beautiful patterns we borrowed their patterns from: Nouri Atchabao, sunshine-91, Kachaya Thawansak, MoonStarer and Takeshi Ishikawa at <a href="https://www.vecteezy.com/">Vecteezy.com.</a> Thank you to everyone involved so far.</i>
