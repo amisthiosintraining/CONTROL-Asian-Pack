@@ -1,6 +1,6 @@
 # CONTROL | Asian Pack
 <p>A work in progress of some Asian re-textures ilikedetectives and I are working on.
-<br>All patterns are from vecteezy.com.</p>
+<br>All patterns are from <a href="https://www.vecteezy.com">vecteezy.com.</a></p>
 
 <img src="https://imgur.com/Lm7V0sF.png">
 
